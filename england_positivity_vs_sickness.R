@@ -1,5 +1,6 @@
 # ============================================================================
-# positivity_vs_sickness.R
+# uk_positivity_vs_sickness.R
+# Input positivity data: uk_positivity_rates.R (England, not a UK-wide aggregate).
 # Plot: NHS sickness (roll6 + prediction interval) vs COVID positivity (roll6)
 # + Adds: tests performed (monthly mean of 7-day totals) as COLUMNS with vertical labels
 #

@@ -1,5 +1,7 @@
 # ============================================================================
+# uk_positivity_rates.R
 # UKHSA COVID-19 (Nation -> England)
+# The requested uk_ filename retains the existing England-only data coverage.
 # Download:
 #   1) PCR positivity (7-day rolling)  -> monthly mean
 #   2) PCR tests (7-day total count)   -> monthly mean
